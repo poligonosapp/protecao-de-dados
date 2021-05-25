@@ -2,7 +2,11 @@
 
 GCloud 
 
-Firebase 
+Firebase
+https://firebase.google.com/
+
+Netlify
+https://www.netlify.com/
 
 Stripe Payment Services
 
