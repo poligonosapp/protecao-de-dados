@@ -8,6 +8,9 @@ https://firebase.google.com/
 Netlify
 https://www.netlify.com/
 
+Serverless framerwork 
+https://www.serverless.com/framework/docs/telemetry
+
 Stripe Payment Services
 
 Salesforce Heroku Platform as a Service
