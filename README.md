@@ -31,3 +31,6 @@ https://docs.mapbox.com/help/getting-started/access-tokens/
 
 https://react-leaflet.js.org/docs/start-installation/
 
+Sentry Logs
+https://sentry.io/privacy/
+
