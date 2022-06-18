@@ -34,3 +34,6 @@ https://react-leaflet.js.org/docs/start-installation/
 Sentry Logs
 https://sentry.io/privacy/
 
+NextJS
+https://nextjs.org/telemetry
+
